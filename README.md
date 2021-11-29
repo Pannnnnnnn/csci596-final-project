@@ -17,12 +17,12 @@ Not only the plasmonic nanostructure simulation, other electromagnetic simulatio
 
 ## _Specific Objectives:_
 1. A FDTD simulation script written in Java.
-2. The grid decomposition of above simulation problem, a reasonable grid size of each sub-group shoule be consider.
+2. The grid decomposition of above simulation problem, a reasonable grid size of each subcell shoule be consider.
 3. Comparison of the final simulation results with different grid sizes to find out how the grid sizes affect the simulation.
    
 ## _Task List:_
   - [x] A FDTD simulation script written in Java.
-  - [ ] What grid size of each sub-group shoule be considered?
+  - [ ] What grid size of each subcell shoule be considered?
   - [ ] Effect of different grid sizes on final simulation result.
 
 ## _Reference:_
