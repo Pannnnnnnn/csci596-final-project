@@ -8,7 +8,7 @@ Plasmonic Nanostructure has attracted great scientific interests. For example, p
 <img src="https://github.com/Pannnnnnnn/csci596-final-project/blob/main/Picture1.png">
 </p>
 <p align="center">
-<b>Figure 1. Overview of the inverse design process.<sup>[1]</sup></b><br>
+<b>Figure 1. FDTD simulation of plasmonic nanostructure.<sup>[1]</sup></b><br>
 </p>
 
 In this proposal, parallel computing method will be applied to improve the precision and efficiency of a FDTD Electromagnetic simulation for plasmonic nanostructure. By decompose the whole computation region into multiple subcells, the original simulation can be divided into several sub-problems. All sub-problems can be then solved simultaneously using the parallel computing. Therefore, each sub-problem can have enough computation resources to study more detials in a smaller grid cell compared with the grid cell in original FDTD simulation. 
